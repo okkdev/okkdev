@@ -39,6 +39,6 @@ Things { λ :: FunctionalProgramming
        , 💫 :: BeautifulCode
        , ✨ :: PrettySyntax
        , 🌐 :: WebDev
-       , ⚙️ :: DevOps
+       , 🔧 :: DevOps
        } deriving (Enjoyment)
 ```
