@@ -20,6 +20,7 @@ I enjoy
 → ⚙️ devops
 -->
 
+<!--
 ```elixir
 i_enjoy =
   []
@@ -30,4 +31,14 @@ i_enjoy =
   |> devops()
   
 ["⚙️", "🌐", "✨", "💫", "λ"]
+```
+-->
+
+```haskell
+Things { λ :: FunctionalProgramming  
+       , 💫 :: BeautifulCode
+       , ✨ :: PrettySyntax
+       , 🌐 :: WebDev
+       , ⚙️ :: DevOps
+       } deriving (Enjoyment)
 ```
