@@ -11,14 +11,14 @@
                                                             
 ```
 
-<!--
+```
 I enjoy    
-→ (λ) functional programming    
+→ λ functional programming    
 → 💫 beautiful code    
 → ✨ pretty syntax    
 → 🌐 webdev    
 → ⚙️ devops
--->
+```
 
 <!--
 ```elixir
@@ -34,6 +34,7 @@ i_enjoy =
 ```
 -->
 
+<!--
 ```haskell
 Things { λ :: FunctionalProgramming  
        , 💫 :: BeautifulCode
@@ -42,3 +43,4 @@ Things { λ :: FunctionalProgramming
        , 🔧 :: DevOps
        } deriving (Enjoyment)
 ```
+-->
